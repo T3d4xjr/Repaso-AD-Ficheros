@@ -23,27 +23,27 @@ public class Act6Repaso {
 
         File fichero = new File(ruta);
 
-        // Verificar si el fichero ya existe
+        
         if (fichero.exists()) {
             System.out.println("El fichero ya existe. ¿Deseas sobrescribirlo (s) o añadir al final (a)?");
             String opcion = entrada.nextLine();
 
             if (opcion.equalsIgnoreCase("s")) {
-                escribirEnFichero(fichero, false); // Sobrescribir
+                escribirEnFichero(fichero, false); 
             } else if (opcion.equalsIgnoreCase("a")) {
-                escribirEnFichero(fichero, true); // Añadir al final
+                escribirEnFichero(fichero, true); 
             } else {
                 System.out.println("Opción no válida. Finalizando programa.");
             }
         } else {
-            // Si el fichero no existe, se creará y se escribirá el contenido
+           
             escribirEnFichero(fichero, false);
         }
 
-        entrada.close(); // Cerrar el escáner
+        entrada.close();
     }
 
-    // Método para escribir en el fichero usando BufferedWriter
+   
     public static void escribirEnFichero(File fichero, boolean añadir) {
         Scanner entrada = new Scanner(System.in);
 
@@ -51,7 +51,7 @@ public class Act6Repaso {
             System.out.println("Introduce las líneas de texto (escribe 'salir' para terminar):");
             String linea;
             boolean loop=true;
-            // Leer múltiples líneas hasta que el usuario escriba "salir"
+         
             while (loop) {
                 linea = entrada.nextLine();
                 if (linea.equalsIgnoreCase("salir")) {

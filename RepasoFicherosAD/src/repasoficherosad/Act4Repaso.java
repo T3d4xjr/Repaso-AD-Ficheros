@@ -25,12 +25,11 @@ public class Act4Repaso {
         
         File directorio = new File(ruta);
         
-        // Verificar si el directorio es válido
         if (directorio.exists() && directorio.isDirectory()) {
-            // Llamar al método recursivo para contar archivos
+            
             contarArchivosPorExtension(directorio);
             
-            // Mostrar los resultados
+            
             System.out.println("\nResultados:");
             for (int i = 0; i < extensiones.size(); i++) {
                 System.out.println(extensiones.get(i) + ": " + contadores.get(i) + " archivos");
@@ -39,20 +38,20 @@ public class Act4Repaso {
             System.out.println("La ruta proporcionada no es un directorio válido o no existe.");
         }
 
-        entrada.close(); // Cerrar el escáner
+        entrada.close();
     }
 
-    // Método recursivo para contar archivos por extensión
+    
     public static void contarArchivosPorExtension(File directorio) {
-        File[] archivos = directorio.listFiles(); // Obtener los archivos en el directorio
-
-        if (archivos != null) { // Comprobar que la lista no es nula
+        File[] archivos = directorio.listFiles(); 
+        
+        if (archivos != null) { 
             for (File archivo : archivos) {
                 if (archivo.isDirectory()) {
-                    // Llamada recursiva para subdirectorios
+                    
                     contarArchivosPorExtension(archivo);
                 } else if (archivo.isFile()) {
-                    // Obtener la extensión del archivo
+                    
                     String extension = obtenerExtension(archivo.getName());
                     if (!extension.isEmpty()) {
                         agregarContador(extension);
@@ -62,25 +61,25 @@ public class Act4Repaso {
         }
     }
 
-    // Método para agregar o incrementar el contador para una extensión
+    
     public static void agregarContador(String extension) {
         int index = extensiones.indexOf(extension);
         if (index != -1) {
-            // Si la extensión ya existe en la lista, incrementamos su contador
+            
             contadores.set(index, contadores.get(index) + 1);
         } else {
-            // Si la extensión no existe, la añadimos a la lista
+            
             extensiones.add(extension);
             contadores.add(1);
         }
     }
 
-    // Método para obtener la extensión del archivo
+    
     public static String obtenerExtension(String nombreArchivo) {
         int i = nombreArchivo.lastIndexOf('.');
         if (i > 0 && i < nombreArchivo.length() - 1) {
-            return nombreArchivo.substring(i + 1).toLowerCase(); // Devolver la extensión en minúsculas
+            return nombreArchivo.substring(i + 1).toLowerCase(); // 
         }
-        return ""; // Si no tiene extensión
+        return ""; 
     }
 }

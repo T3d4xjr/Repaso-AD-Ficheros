@@ -24,16 +24,16 @@ public class Act5Repaso {
         File fichero = new File(ruta);
         
         if (fichero.exists() && fichero.isFile()) {
-            // Llamar al método para leer y mostrar el contenido del fichero
+          
             leerFicheroTexto(fichero);
         } else {
             System.out.println("El archivo no existe o no es un fichero válido.");
         }
 
-        entrada.close(); // Cerrar el escáner
+        entrada.close(); 
     }
 
-    // Método para leer el fichero línea por línea y mostrarlo con numeración
+  
     public static void leerFicheroTexto(File fichero) {
         int contadorLineas = 0;
         
