@@ -28,8 +28,7 @@ public class Act3Repaso {
                 System.out.println(archivoRuta.length());
                 Date fecha = new Date(archivoRuta.lastModified());
                 System.out.println(fecha);
-                SimpleDateFormat sdf = new SimpleDateFormat("d M y");
-                System.out.println(sdf.format(fecha));
+                
                 
                  if(archivoRuta.canRead())
                 {

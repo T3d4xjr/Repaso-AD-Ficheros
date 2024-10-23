@@ -29,30 +29,29 @@ public class Actividad1Repaso {
             
         {
             System.err.println("El archivo es un fichero");
-            File[] files =file.listFiles();
-            for (File f : files) {
-           if(f.canRead())
+            
+           if(file.canRead())
             {
-                System.out.println(" EL archivo "+f+" se puede leer ");
+                System.out.println(" EL archivo "+file+" se puede leer ");
             }else
             {
-                System.out.println(" EL archivo "+f+" no se puede leer ");
+                System.out.println(" EL archivo "+file+" no se puede leer ");
             }
-            if(f.canExecute())
+            if(file.canExecute())
             {
-               System.out.println(" EL archivo "+f+" se puede ejecutar ");
+               System.out.println(" EL archivo "+file+" se puede ejecutar ");
             }else
             {
-                System.out.println(" EL archivo "+f+" no se puede ejecutar ");
+                System.out.println(" EL archivo "+file+" no se puede ejecutar ");
             }
-            if(f.canWrite())
+            if(file.canWrite())
             {
-                System.out.println(" EL archivo "+f+" se puede escribir ");
+                System.out.println(" EL archivo "+file+" se puede escribir ");
             }else
             {
-                System.out.println(" EL archivo "+f+" no se puede escribir ");
+                System.out.println(" EL archivo "+file+" no se puede escribir ");
             } 
-        }
+        
         }if(file.isDirectory())
         {
             System.out.println("El archivo es un directorio");
