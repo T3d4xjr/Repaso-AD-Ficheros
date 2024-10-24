@@ -5,8 +5,10 @@
 package repasoficherosad;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.util.Scanner;
 
 /**
@@ -28,14 +30,37 @@ public class Act13Repaso {
             System.err.println("El fichero no existe o no es un fichero");
         }
         
-        try {
-            BufferedReader br =new BufferedReader(new FileReader(ficheroOriginal));
+         try (BufferedReader reader = new BufferedReader(new FileReader(archivoOriginal))) {
             String linea;
-            
-            while((linea =br.readLine()) !=null)
-            {
-            
+            int numCapitulo = 0; // Contador de capítulos
+            BufferedWriter bw = null; // Para escribir en los archivos de capítulos
+
+            while ((linea = reader.readLine()) != null) {
+                // Verificar si la línea es un marcador de capítulo
+                if (linea.startsWith("Capítulo ")) {
+                    // Si es el inicio de un nuevo capítulo, cerrar el archivo anterior si está abierto
+                    if (bw != null) {
+                        bw.close();
+                    }
+                    // Incrementar el número de capítulo y abrir un nuevo archivo de salida
+                    numCapitulo++;
+                    String nombreArchivoCapitulo = archivoOriginal.replace(".txt", "_cap" + numCapitulo + ".txt");
+                    bw = new BufferedWriter(new FileWriter(nombreArchivoCapitulo));
+                    System.out.println("Creando: " + nombreArchivoCapitulo);
+                }
+                // Si ya hemos detectado un capítulo, escribimos en el archivo actual
+                if (bw != null) {
+                    bw.write(linea);
+                    bw.newLine();
+                }
             }
+
+            // Cerrar el último archivo de capítulo si existe
+            if (bw != null) {
+                bw.close();
+            }
+
+            System.out.println("El archivo se ha dividido en " + numCapitulo + " capítulos.");
             
         } catch (Exception e) {
             System.err.println("Error al leer el archivo" +e.getMessage());
