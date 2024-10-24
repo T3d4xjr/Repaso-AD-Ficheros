@@ -61,7 +61,9 @@ public class Act11Repaso {
                     System.out.print("Introduce el nombre para guardar el fichero de positivos: ");
                     String nombrePositivos = entrada.nextLine();
                     guardarFichero(nombrePositivos, positivos);
-                    
+                    // A la hora de eliminar el archivo hay dos formas eliminando el temporal o llamado a una funcion.
+                    archivoTemporalNegativos.delete();
+                    eliminarFichero(archivoTemporalNegativos.getAbsolutePath());
                     break;
                 case "n":
                     System.out.print("Introduce el nombre para guardar el fichero de negativos: ");
