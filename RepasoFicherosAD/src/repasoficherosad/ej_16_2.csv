@@ -1,0 +1,1839 @@
+ID, Nombre del Animal, Continente, Cantidad de Ejemplares
+1, Tigre de Bengala, Asia, 2500
+2, Elefante Africano, África, 415000
+3, Lince Ibérico, Europa, 1100
+4, Rinoceronte Blanco, África, 18500
+5, Gorila de Montaña, África, 1000
+6, Oso Pardo, Europa, 50000
+7, Leopardo de las Nieves, Asia, 4000
+8, Águila Imperial, Europa, 500
+9, Tortuga Gigante de las Galápagos, África, 15000
+10, Cuervo Común, Europa, 20000000
+11, Panda Gigante, Asia, 1864
+12, León Africano, África, 20000
+13, Rinoceronte de Java, Asia, 74
+14, Lobo Europeo, Europa, 12000
+15, Guepardo, África, 7000
+16, Águila Calva, América, 800
+17, Cóndor de los Andes, América, 6700
+18, Vaquita Marina, América, 10
+19, Tigre del Caspio, Asia, 0
+20, Urogallo, Europa, 5000
+21, Canguro Rojo, Oceanía, 250000
+22, Pingüino Emperador, Antártida, 500000
+23, Gorila de las Tierras Bajas, África, 100000
+24, Jaguar, América, 15000
+25, Avestruz, África, 500000
+26, Bisonte Europeo, Europa, 6200
+27, Águila Real, Europa, 5000
+28, Leopardo Amur, Asia, 84
+29, Delfín del Ganges, Asia, 1200
+30, Rinoceronte Negro, África, 5500
+31, Tigre Siberiano, Asia, 600
+32, Cebra de Grevy, África, 2000
+33, Camello Bactriano, Asia, 1000
+34, Mono Aullador, América, 100000
+35, Tarántula Goliat, América, 800000
+36, Puma, América, 50000
+37, Elefante Asiático, Asia, 45000
+38, Pingüino de Magallanes, América, 1800000
+39, Lémur de Cola Anillada, África, 2000
+40, Caribú, América, 2000000
+41, Foca Leopardo, Antártida, 220000
+42, Gorrión Común, Europa, 1500000000
+43, Ibis Eremita, África, 700
+44, Caimán Americano, América, 200000
+45, Cocodrilo del Nilo, África, 500000
+46, Oso Polar, América, 26000
+47, Tigre de Malasia, Asia, 200
+48, Leopardo Persa, Asia, 1000
+49, Murciélago Frugívoro, Asia, 1000000
+50, Guacamayo Azul, América, 500
+51, Canguro Gris, Oceanía, 3000000
+52, Ornitorrinco, Oceanía, 50000
+53, Kakapo, Oceanía, 150
+54, Dingo, Oceanía, 200000
+55, Wombat Común, Oceanía, 100000
+56, Koala, Oceanía, 80000
+57, Kiwi, Oceanía, 68000
+58, Demonio de Tasmania, Oceanía, 25000
+59, Pingüino de las Galápagos, América, 2000
+60, Puma Americano, América, 30000
+61, Águila Harpía, América, 50000
+62, Capibara, América, 1000000
+63, Oso Negro Americano, América, 600000
+64, Tiburón Blanco, América, 3500
+65, Armadillo Gigante, América, 10000
+66, Nutria Gigante, América, 5000
+67, Pecarí de Collar, América, 800000
+68, Águila Monera, Asia, 180
+69, Rinoceronte de Sumatra, Asia, 80
+70, Tarsier Filipino, Asia, 7000
+71, Orangután de Borneo, Asia, 104700
+72, Foca Monje del Mediterráneo, Europa, 700
+73, Lobo Rojo, América, 30
+74, Bisonte Americano, América, 36000
+75, Tiburón Martillo, América, 200000
+76, Albatros Errante, Antártida, 25000
+77, Foca de Weddell, Antártida, 800000
+78, Lobo Marino de América del Sur, América, 300000
+79, Tiburón Tigre, América, 8000
+80, Tucán Toco, América, 500000
+81, Flamenco Andino, América, 50000
+82, Águila Pescadora, América, 400000
+83, Ballena Azul, Antártida, 15000
+84, Pingüino de Adelia, Antártida, 12000000
+85, Lobo Ártico, América, 200000
+86, Morsa, América, 250000
+87, Guacamayo Verde, América, 2000
+88, Iguana Verde, América, 5000000
+89, Jaguarundi, América, 50000
+90, Tapir Malayo, Asia, 2500
+91, Pangolín, Asia, 50000
+92, Ganso de las Nieves, América, 500000
+93, Lobo Etíope, África, 500
+94, Elefante de Bosque, África, 100000
+95, Serval, África, 100000
+96, Hipopótamo Pigmeo, África, 3000
+97, Colobo Rojo de Zanzíbar, África, 5000
+98, Zorro Feneco, África, 150000
+99, Mandril, África, 8000
+100, Impala, África, 2000000
+101, Suricata, África, 600000
+102, Dragón de Komodo, Asia, 6000
+103, Ciervo Sica, Asia, 100000
+104, Salamandra Gigante China, Asia, 100
+105, Tigre Indochino, Asia, 350
+106, Aye-Aye, África, 10000
+107, Lemur Negro, África, 6000
+108, Fosa, África, 2500
+109, Zorro Ártico, América, 100000
+110, Pato Cabezón, Europa, 35000
+111, Cigüeña Negra, Europa, 6000
+112, Urraca, Europa, 2000000
+113, Cabra Montés Ibérica, Europa, 30000
+114, Gamo Europeo, Europa, 200000
+115, Lince Boreal, Europa, 50000
+116, Zorro Rojo, Europa, 800000
+117, Cárabo Común, Europa, 700000
+118, Nutria Europea, Europa, 100000
+119, Perca Europea, Europa, 500000
+120, Conejo Europeo, Europa, 5000000
+121, Marmota Alpina, Europa, 100000
+122, Gaviota Argéntea, Europa, 900000
+123, Pez Espada, América, 300000
+124, Foca de Groenlandia, América, 2000000
+125, Pavo Salvaje, América, 7000000
+126, Mono Ardilla, América, 200000
+127, Anaconda Verde, América, 30000
+128, Delfín Rosado, América, 4000
+129, Tapires Brasileños, América, 9000
+130, Llama, América, 300000
+131, Caimán Negro, América, 100000
+132, Condor Californiano, América, 350
+133, Salamandra Tigre, América, 500000
+134, Ballena Franca, Antártida, 8000
+135, Cormorán, América, 5000000
+136, Águila Filipina, Asia, 400
+137, Rinoceronte Indio, Asia, 3600
+138, Cocodrilo de Agua Salada, Asia, 200000
+139, Serow Japonés, Asia, 10000
+140, Camello Salvaje, Asia, 950
+141, Tortuga Marina Verde, Asia, 85000
+142, Panda Rojo, Asia, 10000
+143, Lobo de Etiopía, África, 500
+144, Cebra de montaña, África, 9000
+145, Chacal Dorado, África, 800000
+146, Gorila Occidental, África, 95000
+147, Águila Coronada, África, 5000
+148, Licaón, África, 6600
+149, Fénnec, África, 150000
+150, Lagarto del Desierto, África, 1000000
+151, Elefante Marino del Norte, América, 200000
+152, Manatí del Caribe, América, 10000
+153, Coati, América, 1000000
+154, Águila de Bonelli, Europa, 1000
+155, Foca Anillada, América, 600000
+156, Gato Montés, Europa, 50000
+157, Tejón Europeo, Europa, 1000000
+158, Faraón Egipcio, África, 5000
+159, Caracal, África, 40000
+160, Elefante Marino del Sur, Antártida, 650000
+161, Tiburón Ballena, Asia, 20000
+162, Foca de Ross, Antártida, 100000
+163, Wallaby de Pantano, Oceanía, 50000
+164, Koala del Norte, Oceanía, 50000
+165, Petrel Gigante, Antártida, 100000
+166, Tortuga Carey, América, 15000
+167, Chimpancé, África, 172000
+168, Mono Colobo Blanco y Negro, África, 500000
+169, Flamenco del Caribe, América, 150000
+170, Aguilucho Cenizo, Europa, 70000
+171, Cormorán Moñudo, Europa, 300000
+172, Muflón, Europa, 100000
+173, Delfín de Héctor, Oceanía, 7000
+174, Kiwi Marrón, Oceanía, 15000
+175, Kakapo, Oceanía, 150
+176, Águila Solitaria, América, 30000
+177, Cóndor de California, América, 350
+178, Halcón Peregrino, América, 140000
+179, Serpiente de Coral, América, 3000000
+180, Rana de Cristal, América, 500000
+181, Colibrí Zafiro, América, 250000
+182, Tapir Centroamericano, América, 5500
+183, Mono Aullador Rojo, América, 100000
+184, Ocelote, América, 40000
+185, Rana Toro Americana, América, 2000000
+186, Garza Real, América, 1000000
+187, Caribú Boreal, América, 3000000
+188, Foca Pinta, Antártida, 500000
+189, Lobo de Manchuria, Asia, 10000
+190, Leopardo de Amur, Asia, 84
+191, Tarsero Fantasma, Asia, 5000
+192, Ciervo Sambar, Asia, 50000
+193, Pitón de la India, Asia, 100000
+194, Macaco de Cola de Cerdo, Asia, 500000
+195, Rana Dorada de Panamá, América, 200
+196, Pecarí Labiado, América, 800000
+197, Flamenco Andino, América, 30000
+198, Mono Titi, América, 10000
+199, Zorro Patagónico, América, 40000
+200, Armadillo de Tres Bandas, América, 100000
+201, Puma Concolor, América, 30000
+202, Búho Nival, Europa, 100000
+203, Turón, Europa, 200000
+204, Ratón de Campo, Europa, 5000000
+205, Camaleón del Mediterráneo, Europa, 10000
+206, Zorro del Desierto, África, 200000
+207, Foca de Cabo, África, 200000
+208, Lobo Etíope, África, 500
+209, Tiburón Martillo, África, 20000
+210, Avestruz Somalí, África, 100000
+211, Buitre Negro, África, 5000
+212, Cebra de las Planicies, África, 500000
+213, Leopardo Africano, África, 700000
+214, Hiena Manchada, África, 47000
+215, Gacela Dorcas, África, 35000
+216, Lobo de Crin, América, 17000
+217, Tamarin Algodonoso, América, 6000
+218, Capuchino Negro, América, 100000
+219, Arapaima Gigante, América, 50000
+220, Loro Amazonas, América, 100000
+221, Agutí Rojo, América, 300000
+222, Coendú Lanudo, América, 10000
+223, Tapir de Baird, América, 3000
+224, Mangosta Egipcia, África, 500000
+225, Puercoespín Crestado, África, 200000
+226, Zarigüeya Lanuda, América, 100000
+227, Murciélago de la Fruta Egipcio, África, 300000
+228, Lince Boreal, Europa, 50000
+229, Foca del Caspio, Asia, 200000
+230, Zorro Rojo Japonés, Asia, 100000
+231, Tortuga Verde, Asia, 10000
+232, Víbora de Russell, Asia, 100000
+233, Macaco Japonés, Asia, 100000
+234, Goral Rojo, Asia, 15000
+235, Búfalo de Agua, Asia, 500000
+236, Pangolín Chino, Asia, 50000
+237, Águila Filipina, Asia, 400
+238, Leopardo Nublado, Asia, 10000
+239, Búho Cornudo, América, 600000
+240, Martín Pescador, América, 500000
+241, Serpiente Víbora de Madera, América, 1000000
+242, Zarigüeya de Virginia, América, 7000000
+243, Perro de Monte, América, 15000
+244, Manatí de la Amazonía, América, 13000
+245, Murciélago Vampiro, América, 800000
+246, Águila Calva, América, 70000
+247, Águila Marcial, África, 5000
+248, Babuino de Guinea, África, 500000
+249, Canguro Antílope, Oceanía, 35000
+250, Koala de Queensland, Oceanía, 80000
+251, Dromedario, África, 2000000
+252, Elefante de la Sabana, África, 350000
+253, Lechuza de los Páramos, Europa, 100000
+254, Pato Mandarín, Asia, 300000
+255, Rinoceronte Negro, África, 5500
+256, Dragón Barbudo, Oceanía, 2000000
+257, Iguana del Caribe, América, 5000
+258, Ibis Escarlata, América, 100000
+259, Colibrí Garganta Rubí, América, 7000000
+260, Rata Canguro, América, 200000
+261, Mono Capuchino, América, 100000
+262, Delfín Nariz de Botella, América, 600000
+263, Tortuga Mordedora, América, 50000
+264, Puma de Florida, América, 230
+265, Jaguar de las Pampas, América, 30000
+266, Guacamayo Escarlata, América, 300000
+267, Tortuga Lora, América, 25000
+268, Gato Serval, África, 100000
+269, Zorro del Cabo, África, 30000
+270, Pitón de Seba, África, 50000
+271, Lagarto Cola Espinosa, África, 20000
+272, Buho Real, África, 100000
+273, Águila Ratonera, Europa, 150000
+274, Cernícalo Común, Europa, 200000
+275, Milano Negro, Europa, 300000
+276, Nutria de Río, América, 200000
+277, Serpiente Coralillo, América, 500000
+278, Tarántula Rosa, América, 1000000
+279, Oso Kermode, América, 1500
+280, Foca de Puerto, América, 600000
+281, Iguana de Cola Espinosa, América, 80000
+282, Monarca de Tinian, Asia, 60000
+283, Cuervo Corneja, Europa, 3000000
+284, Serpiente Mamba Negra, África, 100000
+285, Rana Flecha Roja, América, 5000
+286, Gato Pescador, Asia, 20000
+287, Chacal de Rayas, África, 500000
+288, Paloma de Nicobar, Asia, 10000
+289, Serpiente Cobra Real, Asia, 50000
+290, Zorro Rojo de las Montañas, América, 200000
+291, Mono Vervet, África, 500000
+292, Hipopótamo, África, 115000
+293, Jabalí Salvaje, Asia, 700000
+294, Tiburón de Galápagos, América, 2000
+295, Piquero de Nazca, América, 100000
+296, Tartaruga Gigante de Galápagos, América, 2000
+297, Anaconda Amarilla, América, 100000
+298, Arara Azul, América, 6000
+299, Mangosta Rayada, África, 500000
+300, Petrel de la Antártida, Antártida, 80000
+301, Murciélago de Gran Cueva, América, 30000
+302, Rata Canguro de Collar, América, 5000
+303, Hormiga Lobo, América, 15000
+304, Pangolín de Indonesia, Asia, 2000
+305, Cangrejo de Río, América, 1000000
+306, Búho de Páramo, Europa, 100000
+307, Foca de Groenlandia, América, 400000
+308, Águila de Piel de Hacha, América, 1500
+309, Tarantula de Goliat, América, 1500
+310, Cernícalo de Cola de Cinta, Europa, 300000
+311, Serpiente de Cascabel, América, 100000
+312, Ratón de Campo Común, Europa, 2000000
+313, Nutria Europea, Europa, 200000
+314, Foca de puerto de Robe, Europa, 10000
+315, Lobo de Crin, América, 30000
+316, Gato de Pallas, Asia, 5000
+317, Chinchilla, América, 150000
+318, Águila de Cola Roja, América, 300000
+319, Serpiente de Rattlesnake, América, 100000
+320, Guacamayo de Spix, América, 60
+321, Oso Hormiguero, América, 5000
+322, Canguro de Cola de Tinte, Oceanía, 200000
+323, Cacatúa de Moño Amarillo, Oceanía, 15000
+324, Marmoset, América, 50000
+325, Nutria de Río Americana, América, 500000
+326, Águila de Cola Blanca, América, 120000
+327, Tortuga de Pantano, América, 100000
+328, Cocodrilo de Pantano, América, 50000
+329, Tortuga de Caiga, América, 6000
+330, Nutria Gigante, América, 3000
+331, Pudu, América, 3000
+332, Cacique, América, 500000
+333, Halcón de Cola de Cinta, América, 150000
+334, Águila de los Andes, América, 10000
+335, Bisonte Europeo, Europa, 5000
+336, Lobo de Idaho, América, 50
+337, Musaraña, Europa, 100000
+338, Pez Payaso, Oceáno Pacífico, 50000
+339, Zorro Gris, América, 150000
+340, Búho Lechuzón, América, 300000
+341, Albatros de Ceja Negra, Antártida, 30000
+342, Gaviota de Bonaparte, América, 1000000
+343, Lobo Marinho de Nueva Zelanda, Oceanía, 30000
+344, Lobito del Mar, América, 50000
+345, Rana Verde, América, 10000
+346, Huemul, América, 1000
+347, Chimpancé Pigmeo, África, 5000
+348, Cacique de Cola Negra, América, 5000
+349, Mapache, América, 500000
+350, Cabra Salvaje, Europa, 300000
+351, Aguja de Zorzal, América, 200000
+352, Ratón Canguro, América, 200000
+353, Serpiente de Culebra, América, 100000
+354, Rana de Puercoespín, América, 30000
+355, Ternura de Cassowary, Oceanía, 20000
+356, Pingüino de Barbijo, Antártida, 20000
+357, Foca de Lago, América, 100000
+358, Chinchilla de Cola Larga, América, 1500
+359, Tejón Americano, América, 100000
+360, Burro de Carga, Asia, 2000000
+361, Cormorán de Pico Largo, América, 200000
+362, Loro de Cola de Fuego, América, 5000
+363, Lobo de Tasmanía, Oceanía, 0
+364, Halcón de Cola Rojo, América, 500000
+365, Sardina del Pacífico, Oceanía, 300000
+366, Agujero de Murciélago, América, 500000
+367, Cerdo Vietnamita, Asia, 100000
+368, Búfalo Africano, África, 300000
+369, Serpiente de Culebra de Agua, América, 100000
+370, Urraca de Cola Larga, Asia, 100000
+371, Lince Canadiense, América, 5000
+372, Zorro Ártico de Nariz, América, 200000
+373, Oso Polares, América, 26000
+374, Búho del Amanecer, Europa, 80000
+375, Manatí de los Llanos, América, 50000
+376, Águila Moteada, América, 200000
+377, Gato de Mar, América, 10000
+378, Pez de Colores, Oceanía, 300000
+379, Dragón de Komodo, Asia, 600
+380, Rata de Campo, Europa, 3000000
+381, Gorrión Común, Europa, 20000000
+382, Cernícalo, América, 500000
+383, Murciélago Mexicano, América, 200000
+384, Cernícalo Montano, Europa, 150000
+385, Suricata, África, 600000
+386, Hipocampo, Oceanía, 5000
+387, Gato de los Bosques, Asia, 4000
+388, Nutria de Mar, América, 200000
+389, Robalo, América, 10000
+390, Gato Salino, Oceanía, 300000
+391, Pez Gato, América, 100000
+392, Tigrillo, América, 20000
+393, Araña Tejedora, América, 300000
+394, Serpiente de Agua, América, 100000
+395, Cangrejo de Manglar, América, 500000
+396, Mula de Agua, América, 30000
+397, Garza de Ciénaga, América, 200000
+398, Rata de Mar, América, 1000000
+399, Salamandra, América, 500000
+400, Armadillo de Cuatro Manos, América, 200000
+401, Canguro Rojo, Oceanía, 200000
+402, Cernícalo Falco, América, 150000
+403, Caracol, América, 1000000
+404, Perro Salchicha, América, 100000
+405, Hiena, África, 70000
+406, Salamandra Gigante, Asia, 1500
+407, Jabirú, América, 10000
+408, Pájaro Carpintero, América, 200000
+409, Búho Nival, América, 10000
+410, Gato Salvaje, América, 20000
+411, Lobo de Tierra, América, 500000
+412, Flamenco Menor, África, 100000
+413, Cabra de los Himalayas, Asia, 25000
+414, Lobo de Ártico, América, 60000
+415, Serpiente de Cascabel del Oeste, América, 50000
+416, Serpiente de Cascabel del Este, América, 30000
+417, Heloino, América, 100000
+418, Cernícalo Americano, América, 300000
+419, Pez Ángel, Oceanía, 150000
+420, Víbora, América, 50000
+421, Caballo de Mar, Oceanía, 100000
+422, Tortuga de Mar, América, 15000
+423, Águila de Corona, América, 150000
+424, Colibrí, América, 1000000
+425, Pájaro Lira, Oceanía, 10000
+426, Búho Real, Europa, 150000
+427, Tejón, Europa, 200000
+428, Serpiente Corales, América, 300000
+429, Paloma Mensajera, Europa, 200000
+430, Gato Montés, América, 50000
+431, Pez de Cernícalo, América, 300000
+432, Albatros de Bonaparte, América, 5000
+433, Cernícalo Americano, América, 500000
+434, Cernícalo de Cola Rojo, América, 30000
+435, Murciélago Doble, América, 500000
+436, Águila de Arena, América, 20000
+437, Huemul, América, 3000
+438, Águila Morada, Europa, 200000
+501, Oso Polar, América, 25000
+502, Tortuga de Río, América, 100000
+503, Gato Montés, América, 50000
+504, Pájaro Carpintero, América, 200000
+505, Pez Manta, América, 8000
+506, Tigre de Bengala, Asia, 2000
+507, Cangrejo de Río, América, 500000
+508, Mamut, Eurasia, 0
+509, Gato de la Nieve, Asia, 4000
+510, Perro Salvaje, África, 6000
+511, Cabra de Montaña, América, 200000
+512, León, África, 25000
+513, Serpiente Coral, América, 300000
+514, Cernícalo de Cola Amarilla, América, 200000
+515, Hiena Moteada, África, 80000
+516, Pájaro Kiwi, Oceanía, 5000
+517, Gorila de Montaña, África, 1000
+518, Serpiente de Cascabel, América, 150000
+519, Pez Globo, Oceanía, 150000
+520, Bisonte Americano, América, 50000
+521, Urraca, Europa, 200000
+522, Oso Pardo, América, 100000
+523, Águila Real, Europa, 30000
+524, Gato Montés Europeo, Europa, 30000
+525, Flamenco de James, América, 10000
+526, Ternura de Baquias, América, 100000
+527, Caracol Gigante, África, 50000
+528, Cocodrilo de Nilo, África, 600000
+529, Canguro Rojo, Oceanía, 300000
+530, Cernícalo de Dos Colas, América, 15000
+531, Pez Payaso, Oceanía, 100000
+532, Búho, América, 200000
+533, Pájaro Lira, Oceanía, 1000
+534, Antílope, África, 600000
+535, Ratón de Campo, Europa, 5000000
+536, Piranha, América, 1000000
+537, Pez Cirujano, Oceanía, 150000
+538, Halcón Peregrino, América, 500000
+539, Alce, América, 30000
+540, Hipopótamo, África, 150000
+541, Zorro Ártico, América, 60000
+542, Gato de la Selva, América, 20000
+543, Oso Hormiguero, América, 3000
+544, Cacatúa de Moño Amarillo, Oceanía, 15000
+545, Búho del Amanecer, América, 10000
+546, Serpiente de Anaconda, América, 40000
+547, Salamandra Gigante, Asia, 5000
+548, Pez de Colores, Oceanía, 300000
+549, Pangolín, Asia, 2000
+550, Sapo, América, 500000
+551, Zorro, América, 150000
+552, Rata, América, 1000000
+553, Pez Dólar, Oceanía, 300000
+554, Águila de Mar, América, 100000
+555, Zorro Rojo, América, 200000
+556, Gato de los Bosques, América, 20000
+557, Ratón de Campo, Europa, 2000000
+558, Cangrejo de la Costa, América, 300000
+559, Cernícalo de Arenas, África, 5000
+560, Nutria de Río, América, 600000
+561, Rata de Espinas, América, 50000
+562, Búho Real, Europa, 30000
+563, Dromedario, África, 100000
+564, Serpiente de Jardín, Europa, 100000
+565, Pez Gato, América, 150000
+566, Cernícalo Montano, América, 150000
+567, Murciélago, Europa, 200000
+568, Gato de Mar, América, 5000
+569, Rango de Madera, América, 200000
+570, Pingüino de Adelia, Antártida, 20000
+571, Pez de Cernícalo, América, 100000
+572, Oso Hormiguero Gigante, América, 500
+573, Ratón de Campo, América, 200000
+574, Nutria de Mar, América, 500000
+575, Bisonte de Europa, Europa, 3000
+576, Gato de la Selva, América, 1000
+577, Loro, América, 50000
+578, Pez Ángel, Oceanía, 100000
+579, Chimpancé, África, 20000
+580, Rana de Cristal, América, 30000
+581, Ternura, América, 150000
+582, Cernícalo, Europa, 200000
+583, Lobo de Ártico, América, 30000
+584, Ardilla Voladora, América, 15000
+585, Jirafa, África, 20000
+586, Gato de Piel Suave, Asia, 5000
+587, Serpiente de Cascabel, América, 200000
+588, Albatros, Oceanía, 30000
+589, Agapornis, África, 100000
+590, Gato Salvaje, América, 30000
+591, Lobo de Tasmania, Oceanía, 0
+592, Ratón de Campo, Europa, 5000000
+593, Cabra de Monte, América, 150000
+594, Pavo Real, Asia, 500000
+595, Orca, Oceanía, 20000
+596, Cernícalo de Cola de Cinta, América, 300000
+597, Nutria, América, 300000
+598, Pez Payaso, Oceanía, 20000
+599, Ratón de Espinas, América, 1000000
+600, Serpiente de Rattlesnake, América, 100000
+601, Gorrión, América, 2000000
+602, Murciélago de Gran Cueva, América, 30000
+603, Rata de Canguro, América, 10000
+604, Tortuga de Tierra, América, 100000
+605, Lobo Marinho, América, 60000
+606, Cacatúa de Moño Amarillo, Oceanía, 15000
+607, Pez Payaso, Oceanía, 100000
+608, Urraca de Cuello, Europa, 100000
+609, Águila Calva, América, 300000
+610, Pez Ángel, Oceanía, 150000
+611, Gato doméstico, América, 1000000
+612, Caballo Marino, Oceanía, 10000
+613, Pez de Ojos Azules, América, 15000
+614, Gato de León, América, 20000
+615, Ratón de Campo, Europa, 2000000
+616, Murciélago Doble, América, 500000
+617, Serpiente de Cascabel del Este, América, 30000
+618, Robalo, América, 100000
+619, Pez Lápiz, América, 100000
+620, Búho Nival, América, 10000
+621, Gato de la Selva, América, 15000
+622, Cernícalo de Cola Amarilla, América, 200000
+623, Gato de los Bosques, América, 20000
+624, Serpiente de Cascabel, América, 200000
+625, Bisonte Americano, América, 50000
+626, Cernícalo de Dos Colas, América, 15000
+627, Pez Manta, América, 8000
+628, Zorro Rojo, América, 200000
+629, Lobo Marinho, América, 60000
+630, Pez de Colores, América, 100000
+631, Cernícalo Americano, América, 300000
+632, Gato de los Bosques, América, 20000
+633, Gato Salvaje, América, 30000
+634, Urraca, Europa, 200000
+635, Pájaro Kiwi, Oceanía, 5000
+636, Hipopótamo, África, 150000
+637, Cernícalo de Cola de Cinta, América, 300000
+638, Albatros, Oceanía, 30000
+639, Gorrión, América, 2000000
+640, Gato de la Selva, América, 2000
+641, Gato doméstico, América, 1000000
+642, Lobo de Mar, América, 500000
+643, Cabra de Monte, América, 150000
+644, Pez de Ojos Azules, América, 15000
+645, Tortuga de Tierra, América, 100000
+646, Lobo de Tasmania, Oceanía, 0
+647, Serpiente de Cascabel del Este, América, 30000
+648, Serpiente de Mar, América, 100000
+649, Gato de León, América, 15000
+650, Gato Montés, América, 50000
+651, Robalo, América, 100000
+652, Serpiente de Rattlesnake, América, 100000
+653, Ternura, América, 150000
+654, Serpiente de Jardín, Europa, 100000
+655, Oso Pardo, América, 100000
+656, Pájaro Carpintero, América, 200000
+657, Gato Americano, América, 6000
+658, Pez Globo, América, 8000
+659, Jirafa, África, 20000
+660, Serpiente de Cascabel, América, 200000
+661, Nutria de Río, América, 600000
+662, Cernícalo de Cola Amarilla, América, 200000
+663, Gato de Tierra, América, 200000
+664, Rata de Espinas, América, 1000000
+665, Bisonte de Europa, Europa, 3000
+666, Cernícalo Americano, América, 300000
+667, Gato Montés Europeo, Europa, 30000
+668, Gato de Mar, América, 5000
+669, Oso Polar, América, 25000
+670, Gato de la Selva, América, 2000
+671, Oso Hormiguero, América, 3000
+672, Loro, América, 50000
+673, Búho, América, 200000
+674, Cacatúa, Oceanía, 20000
+675, Cabra de Montaña, América, 200000
+676, Oso Hormiguero Gigante, América, 500
+677, Gato doméstico, América, 1000000
+678, Lobo de Tasmania, Oceanía, 0
+679, Albatros, Oceanía, 30000
+680, Lobo Rojo, América, 2000
+681, Tortuga de Río, América, 100000
+682, Gato de la Nieve, Asia, 4000
+683, Serpiente de Cascabel, América, 150000
+684, Gato Montés, América, 50000
+685, Oso Pardo, América, 100000
+686, Serpiente de Jardín, Europa, 100000
+687, Gato de los Bosques, América, 20000
+688, Rata de Campo, Europa, 5000000
+689, Nutria, América, 300000
+690, Pez Lápiz, América, 100000
+691, Robalo, América, 100000
+692, Cernícalo de Dos Colas, América, 15000
+693, Gorrión, América, 2000000
+694, Jirafa, África, 20000
+695, Cernícalo de Cola Amarilla, América, 200000
+696, Gato de León, América, 15000
+697, Oso Polar, América, 25000
+698, Búho Nival, América, 10000
+699, Gato de los Bosques, América, 20000
+700, Pez de Colores, América, 100000
+701, Serpiente de Cascabel, América, 150000
+702, Nutria de Mar, América, 500000
+703, Cabra de Montaña, América, 200000
+704, Gato de la Selva, América, 2000
+705, Rata de Espinas, América, 1000000
+706, Gato de Tierra, América, 200000
+707, Gato Americano, América, 6000
+708, Oso Pardo, América, 100000
+709, Cernícalo, América, 200000
+710, Robalo, América, 100000
+711, Pez Payaso, Oceanía, 100000
+712, Gorrión, América, 2000000
+713, Nutria, América, 300000
+714, Serpiente de Cascabel, América, 200000
+715, Pez Globo, América, 8000
+716, Serpiente de Jardín, Europa, 100000
+717, Gato de Mar, América, 5000
+718, Oso Polar, América, 25000
+719, Gato Montés Europeo, Europa, 30000
+720, Gato Montés, América, 50000
+721, Cernícalo de Arenas, África, 5000
+722, Bisonte de Europa, Europa, 3000
+723, Cernícalo Americano, América, 300000
+724, Gato de León, América, 15000
+725, Cabra de Montaña, América, 200000
+726, Gato Americano, América, 6000
+727, Albatros, Oceanía, 30000
+728, Serpiente de Cascabel del Este, América, 30000
+729, Oso Hormiguero, América, 3000
+730, Cabra de Monte, América, 150000
+731, Robalo, América, 100000
+732, Pez de Colores, América, 100000
+733, Rata de Campo, Europa, 5000000
+734, Gato de la Selva, América, 2000
+735, Nutria de Mar, América, 500000
+736, Gorra de Rey, América, 100000
+737, Pez Manta, América, 8000
+738, Tigre de Bengala, Asia, 2000
+739, Gato de Tierra, América, 200000
+740, Cernícalo Americano, América, 300000
+741, Gato Salvaje, América, 30000
+742, Gato de León, América, 15000
+743, Lobo de Mar, América, 500000
+744, Gato de la Selva, América, 15000
+745, Cernícalo de Dos Colas, América, 15000
+746, Robalo, América, 100000
+747, Nutria, América, 300000
+748, Cernícalo, América, 200000
+749, Oso Hormiguero Gigante, América, 500
+750, Gato de los Bosques, América, 20000
+751, Gato doméstico, América, 1000000
+752, Rata de Campo, Europa, 5000000
+753, Gato Americano, América, 6000
+754, Oso Polar, América, 25000
+755, Cabra de Montaña, América, 200000
+756, Gorrión, América, 2000000
+757, Robalo, América, 100000
+758, Caballo Marino, Oceanía, 10000
+759, Cernícalo de Cola Amarilla, América, 200000
+760, Nutria, América, 300000
+761, Pez de Colores, América, 100000
+762, Gato de Tierra, América, 200000
+763, Gato de los Bosques, América, 20000
+764, Rata de Campo, Europa, 5000000
+765, Cernícalo Americano, América, 300000
+766, Gato Americano, América, 6000
+767, Gorra de Rey, América, 100000
+768, Gato de León, América, 15000
+769, Bisonte Americano, América, 50000
+770, Robalo, América, 100000
+771, Rata de Espinas, América, 1000000
+772, Pez Globo, América, 8000
+773, Serpiente de Cascabel, América, 200000
+774, Cabra de Monte, América, 150000
+775, Gato de la Selva, América, 2000
+776, Nutria de Río, América, 600000
+777, Oso Polar, América, 25000
+778, Robalo, América, 100000
+779, Gato de León, América, 15000
+780, Cernícalo Americano, América, 300000
+781, Lobo de Mar, América, 500000
+782, Serpiente de Cascabel, América, 200000
+783, Pez de Colores, América, 100000
+784, Rata de Campo, Europa, 5000000
+785, Oso Hormiguero, América, 3000
+786, Gato doméstico, América, 1000000
+787, Cabra de Montaña, América, 200000
+788, Gato Americano, América, 6000
+789, Gato Montés, América, 50000
+790, Gorrión, América, 2000000
+791, Cernícalo, América, 200000
+792, Pez Payaso, Oceanía, 100000
+793, Oso Polar, América, 25000
+794, Nutria de Mar, América, 500000
+795, Gato de la Selva, América, 15000
+796, Gato de Tierra, América, 200000
+797, Robalo, América, 100000
+798, Gato Americano, América, 6000
+799, Rata de Campo, Europa, 5000000
+800, Cernícalo Americano, América, 300000
+801, Cernícalo de Cola Amarilla, América, 200000
+802, Pez Manta, América, 8000
+803, Serpiente de Cascabel, América, 200000
+804, Gato de los Bosques, América, 20000
+805, Gorrión, América, 2000000
+806, Nutria, América, 300000
+807, Oso Hormiguero, América, 3000
+808, Robalo, América, 100000
+809, Cabra de Montaña, América, 200000
+810, Gato doméstico, América, 1000000
+811, Bisonte Americano, América, 50000
+812, Rata de Espinas, América, 1000000
+813, Cernícalo, América, 200000
+814, Gato de León, América, 15000
+815, Oso Polar, América, 25000
+816, Nutria de Río, América, 600000
+817, Pez de Colores, América, 100000
+818, Cernícalo de Dos Colas, América, 15000
+819, Gato de Tierra, América, 200000
+820, Gorrión, América, 2000000
+821, Serpiente de Cascabel, América, 200000
+822, Gato de la Selva, América, 2000
+823, Gato de León, América, 15000
+824, Nutria de Mar, América, 500000
+825, Robalo, América, 100000
+826, Cabra de Montaña, América, 200000
+827, Cernícalo Americano, América, 300000
+828, Oso Polar, América, 25000
+829, Gato doméstico, América, 1000000
+830, Rata de Campo, Europa, 5000000
+831, Gato de Tierra, América, 200000
+832, Gato de León, América, 15000
+833, Cernícalo, América, 200000
+834, Nutria, América, 300000
+835, Gorra de Rey, América, 100000
+836, Gato Montés, América, 50000
+837, Robalo, América, 100000
+838, Cabra de Montaña, América, 200000
+839, Serpiente de Cascabel, América, 200000
+840, Gato de Tierra, América, 200000
+841, Gato de la Selva, América, 2000
+842, Rata de Campo, Europa, 5000000
+843, Oso Pardo, América, 100000
+844, Pez de Colores, América, 100000
+845, Robalo, América, 100000
+846, Nutria de Río, América, 600000
+847, Cernícalo Americano, América, 300000
+848, Serpiente de Jardín, Europa, 100000
+849, Gato de León, América, 15000
+850, Gato Americano, América, 6000
+851, Oso Polar, América, 25000
+852, Rata de Espinas, América, 1000000
+853, Cabra de Montaña, América, 200000
+854, Nutria, América, 300000
+855, Cernícalo, América, 200000
+856, Gato doméstico, América, 1000000
+857, Gato de Tierra, América, 200000
+858, Robalo, América, 100000
+859, Gorrión, América, 2000000
+860, Gato de los Bosques, América, 20000
+861, Oso Hormiguero, América, 3000
+862, Cernícalo Americano, América, 300000
+863, Gato Montés, América, 50000
+864, Gato de León, América, 15000
+865, Cabra de Montaña, América, 200000
+866, Robalo, América, 100000
+867, Nutria de Río, América, 600000
+868, Serpiente de Cascabel, América, 200000
+869, Pez de Colores, América, 100000
+870, Gato de la Selva, América, 2000
+871, Gorra de Rey, América, 100000
+872, Serpiente de Jardín, Europa, 100000
+873, Nutria de Mar, América, 500000
+874, Gato de Tierra, América, 200000
+875, Gato doméstico, América, 1000000
+876, Rata de Campo, Europa, 5000000
+877, Oso Pardo, América, 100000
+878, Pez de Colores, América, 100000
+879, Robalo, América, 100000
+880, Nutria, América, 300000
+881, Cernícalo, América, 200000
+882, Gato de León, América, 15000
+883, Cernícalo de Dos Colas, América, 15000
+884, Gato de la Selva, América, 2000
+885, Robalo, América, 100000
+886, Cabra de Montaña, América, 200000
+887, Gato doméstico, América, 1000000
+888, Nutria de Río, América, 600000
+889, Oso Polar, América, 25000
+890, Rata de Espinas, América, 1000000
+891, Gato Montés, América, 50000
+892, Gato de Tierra, América, 200000
+893, Cernícalo, América, 200000
+894, Gato de León, América, 15000
+895, Robalo, América, 100000
+896, Gorrión, América, 2000000
+897, Gato de la Selva, América, 2000
+898, Gato de León, América, 15000
+899, Nutria, América, 300000
+900, Robalo, América, 100000
+901, Oso Hormiguero, América, 3000
+902, Nutria de Río, América, 600000
+903, Pez de Colores, América, 100000
+904, Gato de Tierra, América, 200000
+905, Gato doméstico, América, 1000000
+906, Rata de Campo, Europa, 5000000
+907, Cabra de Montaña, América, 200000
+908, Gato Montés, América, 50000
+909, Robalo, América, 100000
+910, Nutria, América, 300000
+911, Gato de la Selva, América, 2000
+912, Gato de Tierra, América, 200000
+913, Oso Pardo, América, 100000
+914, Rata de Espinas, América, 1000000
+915, Nutria de Mar, América, 500000
+916, Cernícalo, América, 200000
+917, Gato de León, América, 15000
+918, Gato doméstico, América, 1000000
+919, Robalo, América, 100000
+920, Gorrión, América, 2000000
+921, Cabra de Montaña, América, 200000
+922, Oso Hormiguero, América, 3000
+923, Nutria de Río, América, 600000
+924, Rata de Campo, Europa, 5000000
+925, Cernícalo Americano, América, 300000
+926, Gato de los Bosques, América, 20000
+927, Gato de Tierra, América, 200000
+928, Gato doméstico, América, 1000000
+929, Robalo, América, 100000
+930, Nutria, América, 300000
+931, Serpiente de Cascabel, América, 200000
+932, Gato de la Selva, América, 2000
+933, Gato de León, América, 15000
+934, Gorra de Rey, América, 100000
+935, Gato Americano, América, 6000
+936, Rata de Espinas, América, 1000000
+937, Cernícalo, América, 200000
+938, Gato Montés, América, 50000
+939, Oso Pardo, América, 100000
+940, Gato de Tierra, América, 200000
+941, Nutria, América, 300000
+942, Cabra de Montaña, América, 200000
+943, Gato doméstico, América, 1000000
+944, Robalo, América, 100000
+945, Gato de León, América, 15000
+946, Oso Hormiguero, América, 3000
+947, Nutria de Río, América, 600000
+948, Gato de los Bosques, América, 20000
+949, Rata de Campo, Europa, 5000000
+950, Gato Americano, América, 6000
+951, Gorra de Rey, América, 100000
+952, Cernícalo de Dos Colas, América, 15000
+953, Gato de la Selva, América, 2000
+954, Nutria, América, 300000
+955, Gato de Tierra, América, 200000
+956, Robalo, América, 100000
+957, Nutria de Mar, América, 500000
+958, Gato Montés, América, 50000
+959, Gato doméstico, América, 1000000
+960, Rata de Espinas, América, 1000000
+961, Pez de Colores, América, 100000
+962, Robalo, América, 100000
+963, Oso Polar, América, 25000
+964, Cabra de Montaña, América, 200000
+965, Cernícalo, América, 200000
+966, Gato de León, América, 15000
+967, Gorra de Rey, América, 100000
+968, Nutria, América, 300000
+969, Gato Americano, América, 6000
+970, Serpiente de Cascabel, América, 200000
+971, Gato de la Selva, América, 2000
+972, Nutria de Río, América, 600000
+973, Robalo, América, 100000
+974, Gato Montés, América, 50000
+975, Gato doméstico, América, 1000000
+976, Rata de Campo, Europa, 5000000
+977, Oso Hormiguero, América, 3000
+978, Cernícalo Americano, América, 300000
+979, Pez de Colores, América, 100000
+980, Gato de Tierra, América, 200000
+981, Gato de los Bosques, América, 20000
+982, Gorra de Rey, América, 100000
+983, Nutria, América, 300000
+984, Gato de León, América, 15000
+985, Robalo, América, 100000
+986, Gato Americano, América, 6000
+987, Nutria de Mar, América, 500000
+988, Cernícalo, América, 200000
+989, Rata de Espinas, América, 1000000
+990, Oso Pardo, América, 100000
+991, Gato de Tierra, América, 200000
+992, Gorrión, América, 2000000
+993, Gato Montés, América, 50000
+994, Nutria, América, 300000
+995, Robalo, América, 100000
+996, Cabra de Montaña, América, 200000
+997, Gato de la Selva, América, 2000
+998, Pez de Colores, América, 100000
+999, Rata de Campo, Europa, 5000000
+1000, Cabra de Monte, América, 150000
+1001, Lobo Gris, América, 300000
+1002, Búho Real, Europa, 20000
+1003, Oso Pardo, América, 50000
+1004, Cebra, África, 250000
+1005, Jirafa, África, 100000
+1006, Elefante Africano, África, 415000
+1007, Gorila de Montaña, África, 1000
+1008, Tigre de Bengala, Asia, 2500
+1009, Panda Gigante, Asia, 1864
+1010, León, África, 23000
+1011, Orca, Oceanía, 50000
+1012, Canguro Rojo, Oceanía, 8000000
+1013, Pájaro Lira, Oceanía, 20000
+1014, Avestruz, África, 500000
+1015, Koala, Oceanía, 80000
+1016, Nutria, América, 300000
+1017, Hipopótamo, África, 125000
+1018, Bisonte, América, 100000
+1019, Foca, Europa, 30000
+1020, Suricata, África, 300000
+1021, Águila Real, Europa, 100000
+1022, Gato Montés, América, 50000
+1023, Gato salvaje, África, 15000
+1024, Delfín, Oceanía, 500000
+1025, Tortuga, América, 4000
+1026, Cernícalo, Europa, 100000
+1027, Lémur, África, 9000
+1028, Chimpancé, África, 150000
+1029, Pingüino Emperador, Oceanía, 60000
+1030, Cebra de Grevy, África, 2500
+1031, Cangrejo, Oceanía, 100000
+1032, Iguana, América, 50000
+1033, Gato de los Bosques, América, 20000
+1034, Rata de Campo, Europa, 5000000
+1035, Búfalo de Agua, Asia, 500000
+1036, Nutria de Río, América, 600000
+1037, Gato de León, América, 15000
+1038, Ocelote, América, 25000
+1039, Bisonte Americano, América, 50000
+1040, Foca de Weddell, Antártida, 200000
+1041, Rata de Espinas, América, 1000000
+1042, Serpiente Pitón, Asia, 10000
+1043, Nutria de Mar, América, 500000
+1044, Antílope, África, 100000
+1045, Canguro, Oceanía, 1000000
+1046, Pez Payaso, Oceanía, 200000
+1047, Serpiente Cobra, Asia, 250000
+1048, Dodo, Oceanía, 0
+1049, Cernícalo de Cola Amarilla, América, 200000
+1050, Robalo, América, 100000
+1051, Gato de Tierra, América, 200000
+1052, Gorra de Rey, América, 100000
+1053, Gorrión, América, 2000000
+1054, Gato Americano, América, 6000
+1055, Lobo de Tasmania, Oceanía, 0
+1056, Pez de Colores, América, 100000
+1057, Panda Rojo, Asia, 10000
+1058, León Marino, América, 250000
+1059, Águila de Cola Blanca, América, 50000
+1060, Nutria, América, 300000
+1061, Gato de la Selva, América, 2000
+1062, Búho, Europa, 30000
+1063, Gato doméstico, América, 1000000
+1064, Nutria de Río, América, 600000
+1065, Pez Manta, América, 8000
+1066, Cernícalo Americano, América, 300000
+1067, Serpiente de Cascabel, América, 200000
+1068, Tigre Siberiano, Asia, 500
+1069, Gato Salvaje Europeo, Europa, 20000
+1070, Gorrión Común, Europa, 1000000
+1071, Rata de Espinas, América, 1000000
+1072, Nutria de Mar, América, 500000
+1073, Gato Montés, América, 50000
+1074, Oso Polar, América, 25000
+1075, Robalo, América, 100000
+1076, Gato Americano, América, 6000
+1077, Gorra de Rey, América, 100000
+1078, Cabra de Montaña, América, 200000
+1079, Serpiente Jardín, Europa, 100000
+1080, Gato de Tierra, América, 200000
+1081, Lobo Gris, América, 300000
+1082, Cernícalo, América, 200000
+1083, Nutria, América, 300000
+1084, Rata de Campo, Europa, 5000000
+1085, Gato de los Bosques, América, 20000
+1086, Gato doméstico, América, 1000000
+1087, Gato de León, América, 15000
+1088, Nutria de Río, América, 600000
+1089, Robalo, América, 100000
+1090, Oso Hormiguero, América, 3000
+1091, Oso Pardo, América, 100000
+1092, Lobo de Alaska, América, 3000
+1093, Delfín Nariz de Botella, América, 60000
+1094, Chinchilla, América, 25000
+1095, Zorro Rojo, América, 200000
+1096, Zorro Ártico, América, 15000
+1097, Búho Nival, América, 20000
+1098, Gato de la Selva, América, 2000
+1099, Halcón Peregrino, América, 250000
+1100, Pez Gato, América, 100000
+1101, Serpiente de Maíz, América, 100000
+1102, Gato de los Bosques, América, 20000
+1103, Búfalo Africano, África, 900000
+1104, Nutria, América, 300000
+1105, Gato Montés, América, 50000
+1106, Cernícalo, América, 200000
+1107, Pez Espada, América, 100000
+1108, Oso Hormiguero, América, 3000
+1109, Jirafa de Reticulada, África, 300000
+1110, Hipopótamo Pigmeo, África, 3000
+1111, Zorro Gris, América, 250000
+1112, Nutria de Río, América, 600000
+1113, Lémur de Cola Anillada, África, 150000
+1114, Perro de las Praderas, América, 500000
+1115, Pez Gato, América, 100000
+1116, Gato Montés, América, 50000
+1117, Cernícalo, América, 200000
+1118, Nutria de Mar, América, 500000
+1119, Orca, Oceanía, 50000
+1120, Gorra de Rey, América, 100000
+1121, Pez Payaso, Oceanía, 200000
+1122, Delfín, Oceanía, 500000
+1123, Tigre de Indochina, Asia, 2500
+1124, Jirafa, África, 100000
+1125, Hipopótamo, África, 125000
+1126, Panda Gigante, Asia, 1864
+1127, Gato Americano, América, 6000
+1128, Gato de Tierra, América, 200000
+1129, Cernícalo, América, 200000
+1130, Bisonte Americano, América, 50000
+1131, Rata de Espinas, América, 1000000
+1132, Pez de Colores, América, 100000
+1133, Nutria, América, 300000
+1134, Gorra de Rey, América, 100000
+1135, Serpiente de Jardín, Europa, 100000
+1136, Robalo, América, 100000
+1137, Cernícalo Americano, América, 300000
+1138, Gato Montés, América, 50000
+1139, Gato de la Selva, América, 2000
+1140, Nutria de Río, América, 600000
+1141, Oso Pardo, América, 100000
+1142, Lobo de Tasmania, Oceanía, 0
+1143, Gato de León, América, 15000
+1144, Gato doméstico, América, 1000000
+1145, Pez Payaso, Oceanía, 200000
+1146, Gorrión, América, 2000000
+1147, Gato Americano, América, 6000
+1148, Robalo, América, 100000
+1149, Nutria de Mar, América, 500000
+1150, Cernícalo, América, 200000
+1151, Oso Hormiguero, América, 3000
+1152, Cabra de Montaña, América, 200000
+1153, Gorra de Rey, América, 100000
+1154, Rata de Campo, Europa, 5000000
+1155, Tigre de Sumatra, Asia, 400
+1156, Gato de Tierra, América, 200000
+1157, Nutria, América, 300000
+1158, Delfín, Oceanía, 500000
+1159, Gato Montés, América, 50000
+1160, Gato de los Bosques, América, 20000
+1161, Robalo, América, 100000
+1162, Pez de Colores, América, 100000
+1163, Gato Americano, América, 6000
+1164, Gorra de Rey, América, 100000
+1165, Oso Pardo, América, 100000
+1166, Cernícalo, América, 200000
+1167, Nutria de Río, América, 600000
+1168, Bisonte Americano, América, 50000
+1169, Gato de León, América, 15000
+1170, Gato doméstico, América, 1000000
+1171, Nutria, América, 300000
+1172, Oso Polar, América, 25000
+1173, Serpiente de Cascabel, América, 200000
+1174, Gorra de Rey, América, 100000
+1175, Gato Montés, América, 50000
+1176, Rata de Espinas, América, 1000000
+1177, Pez de Colores, América, 100000
+1178, Cernícalo, América, 200000
+1179, Oso Hormiguero, América, 3000
+1180, Tigre de Siberiano, Asia, 500
+1181, Gato Americano, América, 6000
+1182, Robalo, América, 100000
+1183, Nutria de Mar, América, 500000
+1184, Gorra de Rey, América, 100000
+1185, Lobo Gris, América, 300000
+1186, Nutria de Río, América, 600000
+1187, Gato de Tierra, América, 200000
+1188, Cabra de Montaña, América, 200000
+1189, Oso Pardo, América, 100000
+1190, Pez Manta, América, 8000
+1191, Delfín Nariz de Botella, América, 60000
+1192, Cernícalo, América, 200000
+1193, Rata de Campo, Europa, 5000000
+1194, Gato de León, América, 15000
+1195, Nutria, América, 300000
+1196, Gato Montés, América, 50000
+1197, Gato doméstico, América, 1000000
+1198, Gorra de Rey, América, 100000
+1199, Oso Hormiguero, América, 3000
+1200, Cernícalo Americano, América, 300000
+1201, Robalo, América, 100000
+1202, Gato Americano, América, 6000
+1203, Nutria de Mar, América, 500000
+1204, Gato de la Selva, América, 2000
+1205, Lobo de Tasmania, Oceanía, 0
+1206, Gato Montés, América, 50000
+1207, Oso Pardo, América, 100000
+1208, Gato de Tierra, América, 200000
+1209, Gato de los Bosques, América, 20000
+1210, Gorrión, América, 2000000
+1211, Rata de Espinas, América, 1000000
+1212, Tigre de Indochina, Asia, 2500
+1213, Gorra de Rey, América, 100000
+1214, Gato Americano, América, 6000
+1215, Nutria de Río, América, 600000
+1216, Gato doméstico, América, 1000000
+1217, Cernícalo, América, 200000
+1218, Robalo, América, 100000
+1219, Nutria, América, 300000
+1220, Oso Polar, América, 25000
+1221, Gato de León, América, 15000
+1222, Gato Montés, América, 50000
+1223, Rata de Campo, Europa, 5000000
+1224, Nutria de Mar, América, 500000
+1225, Gorra de Rey, América, 100000
+1226, Tigre Siberiano, Asia, 500
+1227, Cernícalo Americano, América, 300000
+1228, Lobo Gris, América, 300000
+1229, Gato de Tierra, América, 200000
+1230, Robalo, América, 100000
+1231, Oso Hormiguero, América, 3000
+1232, Nutria de Río, América, 600000
+1233, Gato Montés, América, 50000
+1234, Gato doméstico, América, 1000000
+1235, Gorra de Rey, América, 100000
+1236, Rata de Espinas, América, 1000000
+1237, Pez de Colores, América, 100000
+1238, Gato Americano, América, 6000
+1239, Delfín Nariz de Botella, América, 60000
+1240, Nutria, América, 300000
+1241, Gato de la Selva, América, 2000
+1242, Cernícalo, América, 200000
+1243, Oso Pardo, América, 100000
+1244, Gato de León, América, 15000
+1245, Gato Montés, América, 50000
+1246, Rata de Campo, Europa, 5000000
+1247, Nutria de Mar, América, 500000
+1248, Gorra de Rey, América, 100000
+1249, Tigre de Indochina, Asia, 2500
+1250, Gato Americano, América, 6000
+1251, Robalo, América, 100000
+1252, Nutria de Río, América, 600000
+1253, Gato de Tierra, América, 200000
+1254, Cabra de Montaña, América, 200000
+1255, Oso Hormiguero, América, 3000
+1256, Lobo de Tasmania, Oceanía, 0
+1257, Búfalo de Agua, Asia, 500000
+1258, Gato doméstico, América, 1000000
+1259, Nutria, América, 300000
+1260, Gato de los Bosques, América, 20000
+1261, Gorrión, América, 2000000
+1262, Rata de Espinas, América, 1000000
+1263, Gato de León, América, 15000
+1264, Pez Payaso, Oceanía, 200000
+1265, Delfín, Oceanía, 500000
+1266, Tigre Siberiano, Asia, 500
+1267, Jirafa de Reticulada, África, 300000
+1268, Nutria de Río, América, 600000
+1269, Gato de Tierra, América, 200000
+1270, Bisonte Americano, América, 50000
+1271, Cernícalo, América, 200000
+1272, Oso Pardo, América, 100000
+1273, Gato Montés, América, 50000
+1274, Nutria de Mar, América, 500000
+1275, Robalo, América, 100000
+1276, Gorra de Rey, América, 100000
+1277, Gato Americano, América, 6000
+1278, Nutria, América, 300000
+1279, Gato doméstico, América, 1000000
+1280, Rata de Campo, Europa, 5000000
+1281, Oso Polar, América, 25000
+1282, Gato de la Selva, América, 2000
+1283, Gato de Tierra, América, 200000
+1284, Tigre de Indochina, Asia, 2500
+1285, Delfín Nariz de Botella, América, 60000
+1286, Gorra de Rey, América, 100000
+1287, Robalo, América, 100000
+1288, Gato de León, América, 15000
+1289, Gato Montés, América, 50000
+1290, Rata de Espinas, América, 1000000
+1291, Gato Americano, América, 6000
+1292, Cernícalo, América, 200000
+1293, Nutria de Río, América, 600000
+1294, Oso Hormiguero, América, 3000
+1295, Gorrión, América, 2000000
+1296, Nutria de Mar, América, 500000
+1297, Gato doméstico, América, 1000000
+1298, Oso Pardo, América, 100000
+1299, Tigre de Siberiano, Asia, 500
+1300, Lobo Gris, América, 300000
+1301, Nutria, América, 300000
+1302, Gato de Tierra, América, 200000
+1303, Robalo, América, 100000
+1304, Nutria de Río, América, 600000
+1305, Oso Hormiguero, América, 3000
+1306, Gato de los Bosques, América, 20000
+1307, Gato Montés, América, 50000
+1308, Rata de Campo, Europa, 5000000
+1309, Gato de León, América, 15000
+1310, Nutria de Mar, América, 500000
+1311, Gorra de Rey, América, 100000
+1312, Oso Polar, América, 25000
+1313, Delfín Nariz de Botella, América, 60000
+1314, Gato de la Selva, América, 2000
+1315, Cernícalo Americano, América, 300000
+1316, Gato Americano, América, 6000
+1317, Robalo, América, 100000
+1318, Nutria de Río, América, 600000
+1319, Gato doméstico, América, 1000000
+1320, Gorra de Rey, América, 100000
+1321, Tigre de Indochina, Asia, 2500
+1322, Nutria, América, 300000
+1323, Gato Montés, América, 50000
+1324, Gato de Tierra, América, 200000
+1325, Rata de Espinas, América, 1000000
+1326, Gorrión, América, 2000000
+1327, Nutria de Mar, América, 500000
+1328, Cernícalo, América, 200000
+1329, Robalo, América, 100000
+1330, Gato de León, América, 15000
+1331, Gato de la Selva, América, 2000
+1332, Oso Pardo, América, 100000
+1333, Nutria de Río, América, 600000
+1334, Oso Hormiguero, América, 3000
+1335, Lobo Gris, América, 300000
+1336, Gato doméstico, América, 1000000
+1337, Tigre Siberiano, Asia, 500
+1338, Nutria, América, 300000
+1339, Gato Montés, América, 50000
+1340, Rata de Espinas, América, 1000000
+1341, Gato Americano, América, 6000
+1342, Gorra de Rey, América, 100000
+1343, Oso Polar, América, 25000
+1344, Gato de Tierra, América, 200000
+1345, Robalo, América, 100000
+1346, Nutria de Mar, América, 500000
+1347, Gato de los Bosques, América, 20000
+1348, Gato de la Selva, América, 2000
+1349, Nutria de Río, América, 600000
+1350, Gorra de Rey, América, 100000
+1351, Lobo Gris, América, 300000
+1352, Rata de Campo, Europa, 5000000
+1353, Gato de Tierra, América, 200000
+1354, Nutria, América, 300000
+1355, Gato Montés, América, 50000
+1356, Gato doméstico, América, 1000000
+1357, Oso Pardo, América, 100000
+1358, Tigre de Indochina, Asia, 2500
+1359, Gorra de Rey, América, 100000
+1360, Robalo, América, 100000
+1361, Gato Americano, América, 6000
+1362, Nutria de Río, América, 600000
+1363, Cernícalo, América, 200000
+1364, Gato de León, América, 15000
+1365, Oso Hormiguero, América, 3000
+1366, Delfín Nariz de Botella, América, 60000
+1367, Gorrión, América, 2000000
+1368, Nutria de Mar, América, 500000
+1369, Lobo de Tasmania, Oceanía, 0
+1370, Gato de Tierra, América, 200000
+1371, Nutria, América, 300000
+1372, Gato Montés, América, 50000
+1373, Rata de Espinas, América, 1000000
+1374, Tigre Siberiano, Asia, 500
+1375, Gorra de Rey, América, 100000
+1376, Robalo, América, 100000
+1377, Nutria de Río, América, 600000
+1378, Oso Pardo, América, 100000
+1379, Gato doméstico, América, 1000000
+1380, Gato de los Bosques, América, 20000
+1381, Nutria, América, 300000
+1382, Gato de la Selva, América, 2000
+1383, Gato de Tierra, América, 200000
+1384, Tigre de Indochina, Asia, 2500
+1385, Gorra de Rey, América, 100000
+1386, Robalo, América, 100000
+1387, Gato Americano, América, 6000
+1388, Nutria de Río, América, 600000
+1389, Oso Hormiguero, América, 3000
+1390, Delfín Nariz de Botella, América, 60000
+1391, Gato de León, América, 15000
+1392, Gato doméstico, América, 1000000
+1393, Gato Montés, América, 50000
+1394, Rata de Espinas, América, 1000000
+1395, Gorra de Rey, América, 100000
+1396, Nutria, América, 300000
+1397, Lobo Gris, América, 300000
+1398, Gato de Tierra, América, 200000
+1399, Robalo, América, 100000
+1400, Nutria de Mar, América, 500000
+1401, Oso Polar, América, 25000
+1402, Gato de la Selva, América, 2000
+1403, Tigre Siberiano, Asia, 500
+1404, Gato Montés, América, 50000
+1405, Rata de Campo, Europa, 5000000
+1406, Gato de León, América, 15000
+1407, Nutria, América, 300000
+1408, Gorra de Rey, América, 100000
+1409, Oso Pardo, América, 100000
+1410, Gato doméstico, América, 1000000
+1411, Gato Americano, América, 6000
+1412, Robalo, América, 100000
+1413, Nutria de Río, América, 600000
+1414, Oso Hormiguero, América, 3000
+1415, Delfín Nariz de Botella, América, 60000
+1416, Gato de Tierra, América, 200000
+1417, Nutria de Mar, América, 500000
+1418, Gato de los Bosques, América, 20000
+1419, Tigre de Indochina, Asia, 2500
+1420, Gorra de Rey, América, 100000
+1421, Robalo, América, 100000
+1422, Gato de la Selva, América, 2000
+1423, Nutria, América, 300000
+1424, Gato Montés, América, 50000
+1425, Rata de Espinas, América, 1000000
+1426, Gorrión, América, 2000000
+1427, Nutria de Mar, América, 500000
+1428, Gato doméstico, América, 1000000
+1429, Gato Americano, América, 6000
+1430, Oso Polar, América, 25000
+1431, Robalo, América, 100000
+1432, Tigre Siberiano, Asia, 500
+1433, Nutria de Río, América, 600000
+1434, Gato de León, América, 15000
+1435, Gato de Tierra, América, 200000
+1436, Rata de Campo, Europa, 5000000
+1437, Gorra de Rey, América, 100000
+1438, Gato Montés, América, 50000
+1439, Nutria, América, 300000
+1440, Oso Hormiguero, América, 3000
+1441, Gato doméstico, América, 1000000
+1442, Lobo de Tasmania, Oceanía, 0
+1443, Gato de la Selva, América, 2000
+1444, Robalo, América, 100000
+1445, Delfín Nariz de Botella, América, 60000
+1446, Gato de los Bosques, América, 20000
+1447, Oso Pardo, América, 100000
+1448, Gato Americano, América, 6000
+1449, Rata de Espinas, América, 1000000
+1450, Gato Montés, América, 50000
+1451, Gorra de Rey, América, 100000
+1452, Nutria, América, 300000
+1453, Tigre de Indochina, Asia, 2500
+1454, Gorrión, América, 2000000
+1455, Nutria de Mar, América, 500000
+1456, Gato doméstico, América, 1000000
+1457, Oso Polar, América, 25000
+1458, Gato de Tierra, América, 200000
+1459, Robalo, América, 100000
+1460, Nutria de Río, América, 600000
+1461, Gato de León, América, 15000
+1462, Tigre Siberiano, Asia, 500
+1463, Nutria, América, 300000
+1464, Lobo Gris, América, 300000
+1465, Gato de la Selva, América, 2000
+1466, Gato Montés, América, 50000
+1467, Rata de Campo, Europa, 5000000
+1468, Gato doméstico, América, 1000000
+1469, Gorra de Rey, América, 100000
+1470, Oso Hormiguero, América, 3000
+1471, Gato Americano, América, 6000
+1472, Robalo, América, 100000
+1473, Tigre de Indochina, Asia, 2500
+1474, Nutria de Río, América, 600000
+1475, Gorrión, América, 2000000
+1476, Gato de León, América, 15000
+1477, Oso Pardo, América, 100000
+1478, Gato Montés, América, 50000
+1479, Gato de Tierra, América, 200000
+1480, Nutria, América, 300000
+1481, Robalo, América, 100000
+1482, Gato doméstico, América, 1000000
+1483, Lobo de Tasmania, Oceanía, 0
+1484, Tigre Siberiano, Asia, 500
+1485, Gato de los Bosques, América, 20000
+1486, Oso Polar, América, 25000
+1487, Delfín Nariz de Botella, América, 60000
+1488, Gorra de Rey, América, 100000
+1489, Gato de la Selva, América, 2000
+1490, Nutria de Mar, América, 500000
+1491, Gato Americano, América, 6000
+1492, Nutria, América, 300000
+1493, Rata de Espinas, América, 1000000
+1494, Gato Montés, América, 50000
+1495, Oso Hormiguero, América, 3000
+1496, Gato de León, América, 15000
+1497, Nutria de Río, América, 600000
+1498, Gorra de Rey, América, 100000
+1499, Robalo, América, 100000
+1500, Gorrión, América, 2000000
+1501, Gato de Tierra, América, 200000
+1502, Nutria, América, 300000
+1503, Tigre de Indochina, Asia, 2500
+1504, Gato doméstico, América, 1000000
+1505, Oso Pardo, América, 100000
+1506, Gato de los Bosques, América, 20000
+1507, Delfín, Oceanía, 500000
+1508, Gato Americano, América, 6000
+1509, Nutria de Mar, América, 500000
+1510, Lobo Gris, América, 300000
+1511, Robalo, América, 100000
+1512, Gato de León, América, 15000
+1513, Nutria de Río, América, 600000
+1514, Oso Polar, América, 25000
+1515, Gato de la Selva, América, 2000
+1516, Gorra de Rey, América, 100000
+1517, Tigre Siberiano, Asia, 500
+1518, Nutria, América, 300000
+1519, Rata de Campo, Europa, 5000000
+1520, Gato Montés, América, 50000
+1521, Nutria de Mar, América, 500000
+1522, Gato doméstico, América, 1000000
+1523, Gorrión, América, 2000000
+1524, Gato de Tierra, América, 200000
+1525, Robalo, América, 100000
+1526, Oso Hormiguero, América, 3000
+1527, Nutria, América, 300000
+1528, Gato Americano, América, 6000
+1529, Oso Pardo, América, 100000
+1530, Tigre de Indochina, Asia, 2500
+1531, Gato de los Bosques, América, 20000
+1532, Gato de la Selva, América, 2000
+1533, Rata de Espinas, América, 1000000
+1534, Gato Montés, América, 50000
+1535, Gato doméstico, América, 1000000
+1536, Lobo de Tasmania, Oceanía, 0
+1537, Oso Polar, América, 25000
+1538, Gato de Tierra, América, 200000
+1539, Nutria de Río, América, 600000
+1540, Gato de León, América, 15000
+1541, Nutria, América, 300000
+1542, Robalo, América, 100000
+1543, Delfín Nariz de Botella, América, 60000
+1544, Gato Americano, América, 6000
+1545, Gorra de Rey, América, 100000
+1546, Nutria de Mar, América, 500000
+1547, Gato de los Bosques, América, 20000
+1548, Tigre Siberiano, Asia, 500
+1549, Gato de la Selva, América, 2000
+1550, Rata de Campo, Europa, 5000000
+1551, Gorrión, América, 2000000
+1552, Oso Hormiguero, América, 3000
+1553, Nutria, América, 300000
+1554, Gato doméstico, América, 1000000
+1555, Gato Montés, América, 50000
+1556, Robalo, América, 100000
+1557, Oso Pardo, América, 100000
+1558, Gato de León, América, 15000
+1559, Tigre de Indochina, Asia, 2500
+1560, Nutria de Mar, América, 500000
+1561, Gato de Tierra, América, 200000
+1562, Nutria de Río, América, 600000
+1563, Gorra de Rey, América, 100000
+1564, Gato Americano, América, 6000
+1565, Rata de Espinas, América, 1000000
+1566, Gorrión, América, 2000000
+1567, Lobo Gris, América, 300000
+1568, Gato de la Selva, América, 2000
+1569, Gato Montés, América, 50000
+1570, Nutria, América, 300000
+1571, Robalo, América, 100000
+1572, Gato doméstico, América, 1000000
+1573, Oso Polar, América, 25000
+1574, Gato de los Bosques, América, 20000
+1575, Delfín Nariz de Botella, América, 60000
+1576, Tigre Siberiano, Asia, 500
+1577, Gorra de Rey, América, 100000
+1578, Gato de Tierra, América, 200000
+1579, Rata de Campo, Europa, 5000000
+1580, Nutria de Río, América, 600000
+1581, Gato de León, América, 15000
+1582, Nutria, América, 300000
+1583, Gato Montés, América, 50000
+1584, Oso Hormiguero, América, 3000
+1585, Gato Americano, América, 6000
+1586, Robalo, América, 100000
+1587, Gato de la Selva, América, 2000
+1588, Gorra de Rey, América, 100000
+1589, Nutria de Mar, América, 500000
+1590, Gato doméstico, América, 1000000
+1591, Oso Pardo, América, 100000
+1592, Rata de Espinas, América, 1000000
+1593, Lobo de Tasmania, Oceanía, 0
+1594, Gorrión, América, 2000000
+1595, Gato de Tierra, América, 200000
+1596, Nutria, América, 300000
+1597, Delfín, Oceanía, 500000
+1598, Gato Americano, América, 6000
+1599, Tigre de Indochina, Asia, 2500
+1600, Gato de los Bosques, América, 20000
+1601, Robalo, América, 100000
+1602, Nutria de Río, América, 600000
+1603, Gato de León, América, 15000
+1604, Nutria, América, 300000
+1605, Oso Polar, América, 25000
+1606, Gato Montés, América, 50000
+1607, Gato de la Selva, América, 2000
+1608, Gorra de Rey, América, 100000
+1609, Tigre Siberiano, Asia, 500
+1610, Gato Americano, América, 6000
+1611, Rata de Campo, Europa, 5000000
+1612, Nutria de Mar, América, 500000
+1613, Gato doméstico, América, 1000000
+1614, Gorrión, América, 2000000
+1615, Gato de Tierra, América, 200000
+1616, Robalo, América, 100000
+1617, Oso Hormiguero, América, 3000
+1618, Nutria, América, 300000
+1619, Tigre Indochino, Asia, 2500
+1620, Gato de los Bosques, América, 20000
+1621, Gato Montés, América, 50000
+1622, Gato de León, América, 15000
+1623, Nutria de Río, América, 600000
+1624, Gorra de Rey, América, 100000
+1625, Robalo, América, 100000
+1626, Delfín Nariz de Botella, América, 60000
+1627, Gato doméstico, América, 1000000
+1628, Lobo Gris, América, 300000
+1629, Gato Americano, América, 6000
+1630, Nutria de Mar, América, 500000
+1631, Oso Pardo, América, 100000
+1632, Tigre Siberiano, Asia, 500
+1633, Gato de Tierra, América, 200000
+1634, Rata de Espinas, América, 1000000
+1635, Gorrión, América, 2000000
+1636, Nutria, América, 300000
+1637, Robalo, América, 100000
+1638, Gato de la Selva, América, 2000
+1639, Oso Polar, América, 25000
+1640, Gato Montés, América, 50000
+1641, Gato Americano, América, 6000
+1642, Nutria de Río, América, 600000
+1643, Gato de los Bosques, América, 20000
+1644, Gorra de Rey, América, 100000
+1645, Gato doméstico, América, 1000000
+1646, Delfín Nariz de Botella, América, 60000
+1647, Tigre Indochino, Asia, 2500
+1648, Nutria, América, 300000
+1649, Rata de Campo, Europa, 5000000
+1650, Robalo, América, 100000
+1651, Gato de Tierra, América, 200000
+1652, Gorrión, América, 2000000
+1653, Oso Hormiguero, América, 3000
+1654, Gato de León, América, 15000
+1655, Nutria de Mar, América, 500000
+1656, Gato Montés, América, 50000
+1657, Gato doméstico, América, 1000000
+1658, Gato Americano, América, 6000
+1659, Robalo, América, 100000
+1660, Nutria, América, 300000
+1661, Oso Pardo, América, 100000
+1662, Tigre Siberiano, Asia, 500
+1663, Nutria de Río, América, 600000
+1664, Gato de los Bosques, América, 20000
+1665, Gorra de Rey, América, 100000
+1666, Gato de la Selva, América, 2000
+1667, Gorrión, América, 2000000
+1668, Rata de Espinas, América, 1000000
+1669, Gato de Tierra, América, 200000
+1670, Lobo Gris, América, 300000
+1671, Gato doméstico, América, 1000000
+1672, Nutria, América, 300000
+1673, Robalo, América, 100000
+1674, Oso Polar, América, 25000
+1675, Gato Americano, América, 6000
+1676, Nutria de Mar, América, 500000
+1677, Gato de León, América, 15000
+1678, Tigre Indochina, Asia, 2500
+1679, Gato Montés, América, 50000
+1680, Delfín Nariz de Botella, América, 60000
+1681, Gorra de Rey, América, 100000
+1682, Rata de Campo, Europa, 5000000
+1683, Nutria de Río, América, 600000
+1684, Gato de la Selva, América, 2000
+1685, Oso Hormiguero, América, 3000
+1686, Gato de los Bosques, América, 20000
+1687, Gato doméstico, América, 1000000
+1688, Gato de Tierra, América, 200000
+1689, Gorrión, América, 2000000
+1690, Nutria, América, 300000
+1691, Robalo, América, 100000
+1692, Oso Pardo, América, 100000
+1693, Tigre Siberiano, Asia, 500
+1694, Gato Americano, América, 6000
+1695, Nutria de Mar, América, 500000
+1696, Gato Montés, América, 50000
+1697, Gato de León, América, 15000
+1698, Delfín, Oceanía, 500000
+1699, Gato de los Bosques, América, 20000
+1700, Rata de Espinas, América, 1000000
+1701, Gorra de Rey, América, 100000
+1702, Nutria, América, 300000
+1703, Robalo, América, 100000
+1704, Gato doméstico, América, 1000000
+1705, Tigre Indochina, Asia, 2500
+1706, Lobo de Tasmania, Oceanía, 0
+1707, Gato de Tierra, América, 200000
+1708, Oso Polar, América, 25000
+1709, Gato Americano, América, 6000
+1710, Gorrión, América, 2000000
+1711, Gato de León, América, 15000
+1712, Nutria de Río, América, 600000
+1713, Gato de la Selva, América, 2000
+1714, Nutria de Mar, América, 500000
+1715, Gato Montés, América, 50000
+1716, Oso Hormiguero, América, 3000
+1717, Gato de los Bosques, América, 20000
+1718, Robalo, América, 100000
+1719, Oso Pardo, América, 100000
+1720, Rata de Campo, Europa, 5000000
+1721, Gorra de Rey, América, 100000
+1722, Nutria, América, 300000
+1723, Gato doméstico, América, 1000000
+1724, Gato Americano, América, 6000
+1725, Tigre Siberiano, Asia, 500
+1726, Gato de Tierra, América, 200000
+1727, Delfín Nariz de Botella, América, 60000
+1728, Gato de León, América, 15000
+1729, Gato de la Selva, América, 2000
+1730, Robalo, América, 100000
+1731, Gorra de Rey, América, 100000
+1732, Nutria, América, 300000
+1733, Gato Montés, América, 50000
+1734, Oso Polar, América, 25000
+1735, Gato doméstico, América, 1000000
+1736, Rata de Espinas, América, 1000000
+1737, Lobo Gris, América, 300000
+1738, Gato Americano, América, 6000
+1739, Nutria de Mar, América, 500000
+1740, Gato de los Bosques, América, 20000
+1741, Gorrión, América, 2000000
+1742, Oso Pardo, América, 100000
+1743, Gato de Tierra, América, 200000
+1744, Tigre de Indochina, Asia, 2500
+1745, Gato de León, América, 15000
+1746, Nutria de Río, América, 600000
+1747, Gorra de Rey, América, 100000
+1748, Robalo, América, 100000
+1749, Nutria, América, 300000
+1750, Gato Montés, América, 50000
+1751, Oso Hormiguero, América, 3000
+1752, Gato doméstico, América, 1000000
+1753, Tigre Siberiano, Asia, 500
+1754, Gato Americano, América, 6000
+1755, Rata de Espinas, América, 1000000
+1756, Gorra de Rey, América, 100000
+1757, Gato de Tierra, América, 200000
+1758, Oso Polar, América, 25000
+1759, Gato de la Selva, América, 2000
+1760, Robalo, América, 100000
+1761, Nutria de Mar, América, 500000
+1762, Gato de León, América, 15000
+1763, Gorrión, América, 2000000
+1764, Gato Montés, América, 50000
+1765, Nutria, América, 300000
+1766, Delfín, Oceanía, 500000
+1767, Gato doméstico, América, 1000000
+1768, Oso Pardo, América, 100000
+1769, Tigre Indochina, Asia, 2500
+1770, Gato de los Bosques, América, 20000
+1771, Gorra de Rey, América, 100000
+1772, Robalo, América, 100000
+1773, Nutria, América, 300000
+1774, Oso Hormiguero, América, 3000
+1775, Gato Americano, América, 6000
+1776, Gato de Tierra, América, 200000
+1777, Oso Polar, América, 25000
+1778, Gato de León, América, 15000
+1779, Rata de Espinas, América, 1000000
+1780, Nutria de Río, América, 600000
+1781, Gorra de Rey, América, 100000
+1782, Gato doméstico, América, 1000000
+1783, Gato Montés, América, 50000
+1784, Gato de la Selva, América, 2000
+1785, Tigre Siberiano, Asia, 500
+1786, Robalo, América, 100000
+1787, Nutria de Mar, América, 500000
+1788, Gato Americano, América, 6000
+1789, Oso Pardo, América, 100000
+1790, Gorrión, América, 2000000
+1791, Gato de Tierra, América, 200000
+1792, Rata de Campo, Europa, 5000000
+1793, Nutria, América, 300000
+1794, Delfín Nariz de Botella, América, 60000
+1795, Gato de los Bosques, América, 20000
+1796, Oso Hormiguero, América, 3000
+1797, Gato doméstico, América, 1000000
+1798, Gato Montés, América, 50000
+1799, Robalo, América, 100000
+1800, Nutria de Río, América, 600000
+1801, Tigre Indochino, Asia, 2500
+1802, Gato de León, América, 15000
+1803, Gato de la Selva, América, 2000
+1804, Gorra de Rey, América, 100000
+1805, Gato Americano, América, 6000
+1806, Nutria de Mar, América, 500000
+1807, Oso Polar, América, 25000
+1808, Lobo de Tasmania, Oceanía, 0
+1809, Gato doméstico, América, 1000000
+1810, Oso Pardo, América, 100000
+1811, Gato de Tierra, América, 200000
+1812, Gato de los Bosques, América, 20000
+1813, Gorra de Rey, América, 100000
+1814, Robalo, América, 100000
+1815, Nutria, América, 300000
+1816, Rata de Espinas, América, 1000000
+1817, Gorrión, América, 2000000
+1818, Tigre Siberiano, Asia, 500
+1819, Nutria de Río, América, 600000
+1820, Gato de León, América, 15000
+1821, Nutria, América, 300000
+1822, Gato Americano, América, 6000
+1823, Delfín, Oceanía, 500000
+1824, Gato Montés, América, 50000
+1825, Oso Hormiguero, América, 3000
+1826, Gato de la Selva, América, 2000
+1827, Robalo, América, 100000
+1828, Gato doméstico, América, 1000000
+1829, Oso Polar, América, 25000
+1830, Gorra de Rey, América, 100000
+1831, Tigre Indochino, Asia, 2500
+1832, Rata de Campo, Europa, 5000000
+1833, Gato de Tierra, América, 200000
+1834, Gato de los Bosques, América, 20000
+1835, Nutria, América, 300000
+1836, Robalo, América, 100000
+1837, Gato Montés, América, 50000
+1838, Gato doméstico, América, 1000000
+1839, Nutria de Mar, América, 500000
+1840, Oso Pardo, América, 100000
+1841, Gato de León, América, 15000
+1842, Gorra de Rey, América, 100000
+1843, Gato de la Selva, América, 2000
+1844, Gato Americano, América, 6000
+1845, Delfín Nariz de Botella, América, 60000
+1846, Nutria de Río, América, 600000
+1847, Tigre Siberiano, Asia, 500
+1848, Rata de Espinas, América, 1000000
+1849, Gorrión, América, 2000000
+1850, Gato doméstico, América, 1000000
+1851, Oso Hormiguero, América, 3000
+1852, Robalo, América, 100000
+1853, Gato Montés, América, 50000
+1854, Gato de Tierra, América, 200000
+1855, Nutria, América, 300000
+1856, Oso Pardo, América, 100000
+1857, Tigre Indochina, Asia, 2500
+1858, Gato de los Bosques, América, 20000
+1859, Gorra de Rey, América, 100000
+1860, Gato de la Selva, América, 2000
+1861, Gato Americano, América, 6000
+1862, Oso Polar, América, 25000
+1863, Nutria de Mar, América, 500000
+1864, Rata de Campo, Europa, 5000000
+1865, Gato de León, América, 15000
+1866, Gorrión, América, 2000000
+1867, Nutria Río, América, 600000
+1868, Gato doméstico, América, 1000000
+1869, Gato Montés, América, 50000
+1870, Oso Hormiguero, América, 3000
+1871, Robalo, América, 100000
+1872, Gato de Tierra, América, 200000
+1873, Delfín, Oceanía, 500000
+1874, Gato de los Bosques, América, 20000
+1875, Tigre Siberiano, Asia, 500
+1876, Gorra de Rey, América, 100000
+1877, Nutria, América, 300000
+1878, Gato de la Selva, América, 2000
+1879, Oso Pardo, América, 100000
+1880, Gato Americano, América, 6000
+1881, Gorrión, América, 2000000
+1882, Rata de Espinas, América, 1000000
+1883, Nutria de Río, América, 600000
+1884, Robalo, América, 100000
+1885, Gato doméstico, América, 1000000
+1886, Nutria de Mar, América, 500000
+1887, Gato Montés, América, 50000
+1888, Tigre Indochina, Asia, 2500
+1889, Gato de León, América, 15000
+1890, Gorra de Rey, América, 100000
+1891, Gato de Tierra, América, 200000
+1892, Oso Polar, América, 25000
+1893, Delfín Nariz de Botella, América, 60000
+1894, Nutria, América, 300000
+1895, Gato de los Bosques, América, 20000
+1896, Gorrión, América, 2000000
+1897, Gato de la Selva, América, 2000
+1898, Rata de Campo, Europa, 5000000
+1899, Gato doméstico, América, 1000000
+1900, Oso Pardo, América, 100000

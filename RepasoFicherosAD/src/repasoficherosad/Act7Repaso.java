@@ -52,7 +52,7 @@ public class Act7Repaso {
         int contador =0;
         
         while ((linea =br.readLine()) !=null) {
-        String[] palabras =linea.split("\\s+");
+        String[] palabras =linea.split(" ");
             for (String palabra : palabras) {
                 if (palabra.equalsIgnoreCase(palabraBuscar)) {
                     contador++;
