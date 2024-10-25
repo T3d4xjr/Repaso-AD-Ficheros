@@ -26,7 +26,7 @@ public class Act11Repaso {
 
         try {
             
-            List<Integer> numeros = leerFicheroBinario(nombreFichero);
+            List<Integer> numeros = leerBinarioFichero(nombreFichero);
 
             
             List<Integer> positivos = new ArrayList<>();
@@ -53,14 +53,14 @@ public class Act11Repaso {
             File archivoTemporalNegativos = File.createTempFile("temp_negativos_", ".dat");
 
             // Guardar los números filtrados en archivos temporales
-            guardarFichero(archivoTemporalPositivos.getAbsolutePath(), positivos);
-            guardarFichero(archivoTemporalNegativos.getAbsolutePath(), negativos);
+            guardarBinarioFichero(archivoTemporalPositivos.getAbsolutePath(), positivos);
+            guardarBinarioFichero(archivoTemporalNegativos.getAbsolutePath(), negativos);
             
             switch (opcion) {
                 case "p":
                     System.out.print("Introduce el nombre para guardar el fichero de positivos: ");
                     String nombrePositivos = entrada.nextLine();
-                    guardarFichero(nombrePositivos, positivos);
+                    guardarBinarioFichero(nombrePositivos, positivos);
                     // A la hora de eliminar el archivo hay dos formas eliminando el temporal o llamado a una funcion.
                     archivoTemporalNegativos.delete();
                     eliminarFichero(archivoTemporalNegativos.getAbsolutePath());
@@ -68,15 +68,15 @@ public class Act11Repaso {
                 case "n":
                     System.out.print("Introduce el nombre para guardar el fichero de negativos: ");
                     String nombreNegativos = entrada.nextLine();
-                    guardarFichero(nombreNegativos, negativos);
+                    guardarBinarioFichero(nombreNegativos, negativos);
                     break;
                 case "a":
                     System.out.print("Introduce el nombre para guardar el fichero de positivos: ");
                     nombrePositivos = entrada.nextLine();
-                    guardarFichero(nombrePositivos, positivos);
+                    guardarBinarioFichero(nombrePositivos, positivos);
                     System.out.print("Introduce el nombre para guardar el fichero de negativos: ");
                     nombreNegativos = entrada.nextLine();
-                    guardarFichero(nombreNegativos, negativos);
+                    guardarBinarioFichero(nombreNegativos, negativos);
                     break;
                 default:
                     System.out.println("Opción no válida. No se guardará ningún fichero.");
@@ -91,7 +91,7 @@ public class Act11Repaso {
         }
     }
 
-     private static List<Integer> leerFicheroBinario(String nombreFichero) throws IOException {
+     private static List<Integer> leerBinarioFichero(String nombreFichero) throws IOException {
         List<Integer> numeros = new ArrayList<>();
         try (DataInputStream dis = new DataInputStream(new FileInputStream(nombreFichero))) {
             while (dis.available() > 0) {
@@ -101,7 +101,7 @@ public class Act11Repaso {
         return numeros;
     }
 
-    private static void guardarFichero(String nombreFichero, List<Integer> numeros) throws IOException {
+    private static void guardarBinarioFichero(String nombreFichero, List<Integer> numeros) throws IOException {
         try (DataOutputStream dos = new DataOutputStream(new FileOutputStream(nombreFichero))) {
             for (Integer numero : numeros) {
                 dos.writeInt(numero);
