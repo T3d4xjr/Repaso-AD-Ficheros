@@ -16,7 +16,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author tedax
+ * Filtrar animales de un fichero CSV
+En un fichero csv (ej_16_1.csv y ej_16_2.csv) hay almacenados animales con el siguiente formato: “id, nombre del animal, continente, cantidad de ejemplares”.
+Crea un programa que agrupe los animales en distintos ficheros en función del continente, con el nombre “fichero_continente.csv”. La información a guardar debe ser “id, nombre del animal, cantidad de ejemplares”. Por ejemplo para el fichero “ej_16_1.csv” generará los ficheros “ej_16_1_Europa.csv”,  “ej_16_1_Asia.csv” y  “ej_16_1_África.csv”.
+
  */
 public class Act18Repaso {
     public static void main(String[] args) throws FileNotFoundException, IOException {
